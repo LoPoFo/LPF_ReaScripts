@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="LPF Scripts" commit="366bda0ae362cdc956c6d53ae10d138cfa7a18c3">
+<index version="1" name="LPF Scripts" commit="4803e299c1ff623a1d24208653f76972cb4defaa">
   <category name="Project">
     <reapack name="CopyAllFilesToProjectMediaDirectory_WindowsOnly.lua" type="script" desc="Copy All Files To Project Media Directory (Windows Only)">
       <metadata>
@@ -15,6 +15,11 @@
       <version name="1.0" author="LPF" time="2022-06-09T05:20:33Z">
         <changelog><![CDATA[Add script.]]></changelog>
         <source main="main">https://github.com/LeoPaperFish/LPF_ReaScripts/raw/366bda0ae362cdc956c6d53ae10d138cfa7a18c3/Project/CopyAllFilesToProjectMediaDirectory_WindowsOnly.lua</source>
+      </version>
+    </reapack>
+    <reapack name="GlueSelectedItemsToTheFirstSelectedTrack.lua" type="script" desc="Glue selected items to the first selected track">
+      <version name="1.0" author="LPF" time="2022-06-09T07:08:44Z">
+        <source main="main">https://github.com/LeoPaperFish/LPF_ReaScripts/raw/4803e299c1ff623a1d24208653f76972cb4defaa/Project/GlueSelectedItemsToTheFirstSelectedTrack.lua</source>
       </version>
     </reapack>
     <reapack name="SetDecreasingVelocity.lua" type="script" desc="Set Decreasing Velocity">
