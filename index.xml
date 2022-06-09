@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="LPF Scripts" commit="366bda0ae362cdc956c6d53ae10d138cfa7a18c3">
+  <category name="Project">
+    <reapack name="CopyAllFilesToProjectMediaDirectory_WindowsOnly.lua" type="script" desc="Copy All Files To Project Media Directory (Windows Only)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 The script implements "Project Bay > Copy file to project media directory". But ignore empty item, MIDI take and rpp media. You must put fileops.dll into your Userplugins folder.\par}
+}
+]]></description>
+        <link rel="website" href="https://github.com/LoPoFo/LPF_ReaScripts">Github Repository</link>
+      </metadata>
+      <version name="1.0" author="LPF" time="2022-06-09T05:20:33Z">
+        <changelog><![CDATA[Add script.]]></changelog>
+        <source main="main">https://github.com/LeoPaperFish/LPF_ReaScripts/raw/366bda0ae362cdc956c6d53ae10d138cfa7a18c3/Project/CopyAllFilesToProjectMediaDirectory_WindowsOnly.lua</source>
+      </version>
+    </reapack>
+    <reapack name="SetDecreasingVelocity.lua" type="script" desc="Set Decreasing Velocity">
+      <version name="1.0" author="LPF" time="2022-06-09T05:20:33Z">
+        <source main="main">https://github.com/LeoPaperFish/LPF_ReaScripts/raw/366bda0ae362cdc956c6d53ae10d138cfa7a18c3/Project/SetDecreasingVelocity.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
